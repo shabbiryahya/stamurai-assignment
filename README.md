@@ -62,7 +62,7 @@ The project uses Git for version control. The repository is organized with branc
 
 ## Deployment
 
-The application is deployed on Netlify. You can access the live website at [Link to Live Website](https://your-live-website-url).
+The application is deployed on Vercel. You can access the live website at [Link to Live Website](https://stamurai-task-management-application-masai.vercel.app/).
 
 
 
